@@ -27,7 +27,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://1hanzla100.github.io/',
+  url: 'https://portfolio-miwt-de3k82eu4-vrsaniko-asuedu.vercel.app/',
   linkedin: 'https://www.linkedin.com/in/vishnu-vardhan-sanikommu-b8336792/',
   github: 'https://github.com/vardhan-saniko',
   instagram: 'https://www.instagram.com/vardhan054/',
@@ -176,14 +176,14 @@ export const experience: ExperienceType[] = [
   {
     role: 'Graduate Research Assistant',
     company: 'Data Science and Analytics Lab, ASU',
-    companyLogo: '/img/icons/common/asu.png',
+    companyLogo: '/img/icons/common/asu2.png',
     date: 'Jan 2023 – May 2023',
     desc: 'Worked as a full stack web developer to develop an end to end web application using Django and ReactJs and deploy in Nginx server. The application allows includes an interface using Django templates and Django dynamic routing to allow the admin to create multiple survey web pages and integrate the surveyed data to display on dashboard with user based authentication',
   },
   {
     role: 'Software Developer',
     company: 'Digital Innovation Group, ASU',
-    companyLogo: '/img/icons/common/diging1.jpg',
+    companyLogo: '/img/icons/common/dgng5.png',
     date: 'Feb 2022 – May 2023',
     desc: 'I worked as a Java developer on a Citesphere App. Citesphere is a web application that can link to Zotero and allows you to manage your Zotero citations. I created API endpoints in Spring framework to query for various data from MangoDb.',
   },
@@ -197,7 +197,7 @@ export const experience: ExperienceType[] = [
   {
     role: 'Full Stack Developer',
     company: 'ReportGarden',
-    companyLogo: '/img/icons/common/reportgarden.png',
+    companyLogo: '/img/icons/common/rg.png',
     date: 'Jun 2016 - Aug 2018',
     desc: "Worked on integrating various ad agencies with the reportgarden tool using API's. Technologies includes Ruby on Rails stack, ReactJs, JQuery",
   },
@@ -250,8 +250,8 @@ export const seoData: SEODataType = {
   description:
     'A passionate Full Stack Web Developer and Blockchain Developer.',
   author: 'Vishnu Vardhan',
-  image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-  url: 'https://developer-portfolio-1hanzla100.vercel.app',
+  image: '',
+  url: 'https://portfolio-miwt-de3k82eu4-vrsaniko-asuedu.vercel.app/',
   keywords: [
     'Vishnu',
     'Vishnu Vardhan',
