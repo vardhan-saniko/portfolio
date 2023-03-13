@@ -27,7 +27,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://portfolio-miwt-de3k82eu4-vrsaniko-asuedu.vercel.app/',
+  url: 'https://portfoliomiwt.vercel.app/',
   linkedin: 'https://www.linkedin.com/in/vishnu-vardhan-sanikommu-b8336792/',
   github: 'https://github.com/vardhan-saniko',
   instagram: 'https://www.instagram.com/vardhan054/',
@@ -251,7 +251,7 @@ export const seoData: SEODataType = {
     'A passionate Full Stack Web Developer and Blockchain Developer.',
   author: 'Vishnu Vardhan',
   image: '',
-  url: 'https://portfolio-miwt-de3k82eu4-vrsaniko-asuedu.vercel.app/',
+  url: 'https://portfoliomiwt.vercel.app/',
   keywords: [
     'Vishnu',
     'Vishnu Vardhan',
