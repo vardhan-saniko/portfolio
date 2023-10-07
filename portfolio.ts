@@ -17,7 +17,7 @@ export const greetings: GreetingsType = {
   description:
     "I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Ruby and Ruby on Rails",
   resumeLink:
-    'https://drive.google.com/file/d/1T0tdoLrzuaRlR9HvM9JxGqFgEiY6xcEU/view?usp=sharing',
+    'https://drive.google.com/file/d/1g6TC1mNEO6T0_H13SmgABmd3hNiZQX1d/view?usp=sharing',
 };
 
 export const openSource = {
@@ -28,7 +28,7 @@ export const contact = {};
 
 export const socialLinks: SocialLinksType = {
   url: 'https://portfoliomiwt.vercel.app/',
-  linkedin: 'https://www.linkedin.com/in/vishnu-vardhan-sanikommu-b8336792/',
+  linkedin: 'https://www.linkedin.com/in/vishnu-vardhan-sanikommu',
   github: 'https://github.com/vardhan-saniko',
   instagram: 'https://www.instagram.com/vardhan054/',
   facebook: 'https://www.facebook.com/sanikommu.vishnuvardhan',
