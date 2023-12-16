@@ -17,7 +17,7 @@ export const greetings: GreetingsType = {
   description:
     "I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Ruby and Ruby on Rails",
   resumeLink:
-    'https://drive.google.com/file/d/1u4zonIhq3mpqIv9f7jouB0zgkF_jdzqb/view?usp=sharing',
+    'https://drive.google.com/file/d/1QKicPJ_8iq6rmhjQvEy8uC41AmB70p_-/view?usp=drive_link',
 };
 
 export const openSource = {
